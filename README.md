@@ -1,4 +1,4 @@
-# image-viewer
+# inkdrop-image-viewer
 
 Inkdrop plugin that provides an image viewer.
 (There are few functions as an Image Viewer)
