@@ -1,10 +1,10 @@
 {
-  "name": "image-viewer",
-  "main": "./lib/image-viewer",
+  "name": "dblclick-expansion-image",
+  "main": "./lib/plugin",
   "version": "0.0.0",
-  "description": "image viewer for inkdrop",
+  "description": "Show bigger image when double click image.",
   "keywords": [],
-  "repository": "https://github.com/basyura/inkdrop-image-viewer",
+  "repository": "https://github.com/basyura/inkdrop-dblclick-expansion-image",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
