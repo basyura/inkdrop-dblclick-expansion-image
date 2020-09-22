@@ -13,6 +13,6 @@ ipm install dblclick-expansion-image
 
 ## CHANGELOG
 
-0.1.0 - 2020/09/22
+0.2.0 - 2020/09/22
 
 - first release.
