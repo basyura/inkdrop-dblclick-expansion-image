@@ -20,10 +20,4 @@ dblclick-expansion-image:open
 
 ## CHANGELOG
 
-0.3.0 - 2020/09/23
-
-- add command "dblclick-expansion-image:open"
-
-0.2.0 - 2020/09/22
-
-- first release.
+https://github.com/basyura/inkdrop-dblclick-expansion-image/commits/master
