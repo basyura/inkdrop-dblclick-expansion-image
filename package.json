@@ -1,7 +1,7 @@
 {
   "name": "dblclick-expansion-image",
   "main": "./lib/plugin",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Show bigger image when double click image.",
   "keywords": [],
   "repository": "git@github.com:basyura/inkdrop-dblclick-expansion-image.git",
